@@ -19,7 +19,7 @@ apoio: https://www.youtube.com/watch?v=i6hi2YGsiXU
 - [ ] Flyweight 
 - [ ] Proxy
 
-Design Comportamentais - 
+# Design Comportamentais 
 - [x] Chain of Responsibility 
 - [x] Strategy 
 - [ ] Command 
