@@ -1,4 +1,7 @@
 # Design_patterns
+https://refactoring.guru/images/patterns/content/index-design-patterns.png
+apoio: https://refactoring.guru/
+apoio: https://www.youtube.com/watch?v=i6hi2YGsiXU
 
 # Criação 
 - [x] Factory 
