@@ -1,4 +1,3 @@
-# Design_patterns
 <img align="center" src="https://refactoring.guru/images/patterns/content/chain-of-responsibility/chain-of-responsibility.png">
 apoio: https://refactoring.guru/
 apoio: https://www.youtube.com/watch?v=i6hi2YGsiXU

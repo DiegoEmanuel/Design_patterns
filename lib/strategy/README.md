@@ -1,4 +1,3 @@
-# Design_patterns
 <img align="center" src="https://refactoring.guru/images/patterns/content/strategy/strategy.png">
 apoio: https://refactoring.guru/
 apoio: https://www.youtube.com/watch?v=i6hi2YGsiXU
