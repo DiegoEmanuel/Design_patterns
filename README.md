@@ -1,10 +1,33 @@
 # Design_patterns
 
-[x] Factory - [ ] Abstract Factory - [ ] Builder - [ ] Prototype - [ ] Singleton
+# Criação 
+- [x] Factory 
+- [ ] Abstract Factory 
+- [ ] Builder 
+- [ ] Prototype 
+- [ ] Singleton
 
-[ ] Adapter - [ ] Bridge - [ ] Composite - [ ] Decorator - [ ] Facade - [ ] Flyweight - [ ] Proxy
+# Estrutural 
+- [ ] Adapter 
+- [ ] Bridge 
+- [ ] Composite 
+- [ ] Decorator 
+- [ ] Facade 
+- [ ] Flyweight 
+- [ ] Proxy
 
-[x] Chain of Responsibility - [ ] Command - [ ] Interpreter - [ ] Iterator - [ ] Mediator - [ ] Memento - [ ] Observer - [ ] State - [x] Strategy - [ ] Template Method - [ ] Visitor
+Design Comportamentais - 
+- [x] Chain of Responsibility 
+- [x] Strategy 
+- [ ] Command 
+- [ ] Interpreter 
+- [ ] Iterator 
+- [ ] Mediator 
+- [ ] Memento 
+- [ ] Observer 
+- [ ] State 
+- [ ] Template Method 
+- [ ] Visitor
 A new Flutter example of patterns project.
 
 ## Getting Started
